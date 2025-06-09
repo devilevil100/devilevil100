@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [SharpMoney](https://discord.gg/554HP7da)  (+EV bets predictor for US based sharpbooks)<br>🌱 I’m currently learning shell script, Linux, Python and C++<br>Looking for a team to participate in CTFs. Hit me up on discord `wusername_` <br>I am a beginner and would like to explore the world of cybersecurity<br>
+🔭 I’m currently working in [SharpMoney](https://discord.gg/554HP7da)  (+EV bets predictor for US based sharpbooks)<br>🌱 I’m currently learning shell script, Linux, Python and C++<br>Looking for a team to participate in CTFs. Hit me up on discord `wusername_` <br>I am a beginner and would like to explore the world of cybersecurity<br>
 
 
 ## 🌐 Socials:
